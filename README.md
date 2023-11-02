@@ -1,5 +1,6 @@
 # social-media-application
 **Project Overview:** <br>
+<br>
 This iOS application was created as part of my final year thesis, addressing the need for a more secure and non-editable platform for sharing photos and memories. With privacy and authenticity at its core, our app provides a safe and trustworthy environment for users to share their cherished moments.
 
 The idea behind this project came from the unrealistic beauty standards that are set by today's "influencers" that can be very damaging to their viewers, in which doctored images are posted and portrayed as "real". I propose a solution to this problem, a mobile application (iOS) for sharing non-edited photos with one another. The application will be designed as a social media platform where users can upload photos inside the application (user input), the user input will then undergo a vetting process using a Modified Image Recognition (M.I.R) algorithm to check if the input has been edited. Only non-edited images will be permitted for sharing.
