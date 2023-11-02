@@ -6,7 +6,7 @@ The idea behind this project came from the unrealistic beauty standards that are
 
 **Key Features:**
 
-**Non-Editable Photos:** Photos uploaded to the app are protected from editing, ensuring the authenticity of shared content.\n
+**Non-Editable Photos:** Photos uploaded to the app are protected from editing, ensuring the authenticity of shared content.<br>
 **User Authentication:** Secure sign-up and login processes to safeguard user data.
 **Real-time Photo Sharing:** Seamlessly share photos with friends and followers in real-time.
 **Privacy Settings:** Customize privacy preferences to control who can view and interact with your photos.
